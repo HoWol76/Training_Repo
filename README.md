@@ -1,1 +1,3 @@
-# Training_Repo
+# Training Repository
+
+This is just for training git
